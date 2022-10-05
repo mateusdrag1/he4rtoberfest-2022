@@ -19,5 +19,5 @@
 Use o comando abaixo:
 
 ```bash
-python3 index.js
+python3 main.py
 ```
